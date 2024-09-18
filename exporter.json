@@ -1,8 +1,8 @@
 {
     "id": "kw.la.flutter-svg-assets",
-    "name": "Flutter SVG Assets",
-    "description": "Flutter SVG Asset Exporter",
-    "author": "Jiri Trecak",
+    "name": "KW.LA.Flutter SVG exporter",
+    "description": "Flutter SVG Assets Exporter",
+    "author": "maksMobile",
     "organization": "Supernova",
     "homepage": "https://supernova.io",
     "source_dir": "src",
